@@ -2,6 +2,8 @@
 
 I'm a Full Stack Developer with a passion for creating practical applications to make haptics tasks easier.
 
+🌱 I’m currently trying to be 1% better🫡 ...
+
 [![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajatdh27)](https://github.com/rajatdh/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=rajatdh27)](https://git.io/streak-stats)
 
 
