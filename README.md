@@ -1,8 +1,10 @@
 ### Hi there 👋, I'm Rajat Thakur
 
-I'm a Full Stack Developer with a passion for creating practical applications to make haptics tasks easier
+I'm a Full Stack Developer with a passion for creating practical applications to make haptics tasks easier.
 
 [![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajatdh27)](https://github.com/rajatdh/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rajatdh27)](https://git.io/streak-stats)
 
 <!--
 **rajatdh27/rajatdh27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
