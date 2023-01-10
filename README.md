@@ -6,6 +6,8 @@ I'm a Full Stack Developer with a passion for creating practical applications to
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rajatdh27)](https://git.io/streak-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=rajatdh27&theme=onedark)](https://github.com/rajatdh27/github-profile-trophy)
+
 <!--
 **rajatdh27/rajatdh27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
