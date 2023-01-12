@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Rajat Thakur
 
-I'm a Full Stack Developer with a passion for creating practical applications to make haptics tasks easier.
+I'm a Full Stack Developer with a passion for creating practical applications.
 
 🌱 I’m currently trying to be 1% better🫡 ...
 
