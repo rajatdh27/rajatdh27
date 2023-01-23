@@ -2,7 +2,7 @@
 
 I'm a Full Stack Developer with a passion for creating practical applications.
 
-🌱 I’m currently trying to be 1% better🫡 ...
+🌱 I’m currently trying to be 1% better than yesterday 🫡 ...
 
 [![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajatdh27)](https://github.com/anuraghazra/github-readme-stats)
 
